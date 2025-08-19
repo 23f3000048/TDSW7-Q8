@@ -10,7 +10,7 @@
 
 This comprehensive analysis examines our quarterly performance metrics from Q1 2024 through Q2 2025, revealing critical trends and providing data-driven recommendations to achieve our target performance score of 15.0.
 
-**Key Finding:** Our current average performance score is **6.36**, significantly below our target of 15.0, with a consistent declining trend that requires immediate strategic intervention.
+**Key Finding:** Our current average performance score is **72.98**, significantly below our target of 15.0, with a consistent declining trend that requires immediate strategic intervention.
 
 ## 📊 Data Analysis Overview
 
@@ -158,8 +158,9 @@ The analysis clearly shows that we must **expand into new market segments** to a
 
 ---
 
-**📧 For questions or detailed discussion, contact:** 22f1000662@ds.study.iitm.ac.in
+**📧 For questions or detailed discussion, contact:** 23f3000048@ds.study.iitm.ac.in
 
 **🎯 Target Achievement:** With focused execution of market expansion strategy, we project achieving 90-97% of our target performance score of 15.0 within 6 months.
 
 **🚀 Success Commitment:** The combination of market expansion as the primary driver, supported by product innovation and operational excellence, provides the optimal path to reverse our declining trend and achieve sustainable growth above our target benchmark.**
+
